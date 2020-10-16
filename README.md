@@ -5,7 +5,7 @@ This problem statement is of ***I-Chip 2020*** event, I-Chip is a ***Verilog HDL
 
 ### Problem Statement-
 
-Problem statement is given [here](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/I-Chip.pdf). Basically, we have to write a verilog code to encryt and decrpyt a given image using different modes of DES, this is known sa crytography.
+Problem statement is given [here](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/I-Chip.pdf). Basically, we have to write a verilog code to encryt and decrpyt a given image using different modes of DES, this is known as crytography.
 
 Input image is below-
 ![imput image](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/Input%20Image.jpg)
@@ -64,6 +64,6 @@ The images shown above are screenshot so they may be not be in required resoluti
 * https://drive.google.com/file/d/1AdoeZklvGeN70Z-C6klR9XYD8B-qVsxD/view?usp=sharing
 * https://drive.google.com/file/d/1COexFHtUOkY0hctzP4QFXxKHtCyYmSTj/view?usp=sharing
 * https://drive.google.com/file/d/1sOd31YbFAfZne7c2WQ0h9owgZI_9_66C/view?usp=sharing
-* videos link - https://drive.google.com/file/d/1WiRzZqI0KxPNIHmO8BV3Hv-yuMK6sjY9/view?usp=sharing
+* Videos link - https://drive.google.com/file/d/1WiRzZqI0KxPNIHmO8BV3Hv-yuMK6sjY9/view?usp=sharing
 * https://www.tutorialspoint.com/cryptography/data_encryption_standard.htm
 * http://www.tetraedre.com/advanced/files/tcdg.pdf
