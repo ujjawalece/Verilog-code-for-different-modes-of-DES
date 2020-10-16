@@ -18,7 +18,7 @@ Input image is below-
 
 The code for every mode is given in files of this repository. It includes [Process Key](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/ProcessKey.v) which is same for every code, verilog module and test benches corresponding to them.
 
-For Example- if the name of file id ECB_enc.v then it will have code of encryption for ECB mode and corresonding test bench file is given by name test_ecb_enc. Similarly, "dec" represents decryption.
+For Example- if the name of file id ECB_enc.v then it will have code of encryption for ECB mode and corresonding test bench file is given by name test_ecb_enc.v. Similarly, if 'dec' is used in place of 'enc' in file name are the files corresponding to the decryption process.
 
 ### Results-
 
