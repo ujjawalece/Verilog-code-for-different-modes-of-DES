@@ -1,4 +1,4 @@
-# Verolg-code-for-different-modes-of-DES
+# Verilog-code-for-different-modes-of-DES
 
 Here, we will provide you complete code for different modes of ***Data Encryption Standard implemented (DES)*** in ***Verilog***.
 This problem statement is of ***I-Chip 2020*** event, I-Chip is a ***Verilog HDL based event***. The participants are given an exciting problem statement and are expected to code its solution in Verilog, simulate their code and implement it on FPGA board. It is an event of Annual Technical Fest ***UDYAM*** of ***department of ELECTRONICS IIT(BHU)***.
@@ -56,7 +56,8 @@ For Example- if the name of file id ECB_enc.v then it will have code of encrypti
 
 
 ### Remark-
-The images shown above are screenshot so they may be not be in required resolutio of1024X1024. So, instead of using these imsge use there .txt of same name files which is binary form of the image.
+The images shown above are screenshots of the python program output. So, they may not be in required resolution of 1024 X 1024. So, instead of using these images, use there .txt file with same name which is binary form of the image.
+
 
 
 ### Resources-
