@@ -5,7 +5,7 @@ This problem statement is of ***I-Chip 2020*** event, I-Chip is a ***Verilog HDL
 
 ### Problem Statement-
 
-Problem statement is given [here](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/I-Chip.pdf). Basically, we have to write a verilog code to encryt and decrpyt a given image using different modes of DES, this is known as crytography.
+Problem statement is given [here](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/I-Chip.pdf). Basically, we have to write a verilog code to encrypt and decrypt a given image using different modes of DES, this is known as crytography.
 
 Input image is below-
 ![imput image](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/Input%20Image.jpg)
