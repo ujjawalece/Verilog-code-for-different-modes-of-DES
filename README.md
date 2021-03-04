@@ -1,4 +1,4 @@
-# Verilog-code-for-different-modes-of-DES
+# Verilog code for different modes of DES
 
 Here, we will provide you complete code for different modes of ***Data Encryption Standard implemented (DES)*** in ***Verilog***.
 This problem statement is of ***I-Chip 2020*** event, I-Chip is a ***Verilog HDL based event***. The participants are given an exciting problem statement and are expected to code its solution in Verilog, simulate their code and implement it on FPGA board. It is an event of Annual Technical Fest ***UDYAM*** of ***department of ELECTRONICS IIT(BHU)***.
