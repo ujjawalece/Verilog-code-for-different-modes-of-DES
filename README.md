@@ -22,7 +22,7 @@ For Example- if the name of file is ECB_enc.v then it will have code of encrypti
 
 ### Results-
 
-##### ECB (Electronic Code Book) mode-
+### ECB (Electronic Code Book) mode-
 
 ***Encrypted image-***
 ![im](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/ecb_enc.png)
@@ -30,7 +30,7 @@ For Example- if the name of file is ECB_enc.v then it will have code of encrypti
 ***Decrypted image-***
 ![im](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/ecb_dec.png)
 
-##### CBC (Cipher Block Chaining) mode-
+### CBC (Cipher Block Chaining) mode-
 
 ***Encrypted image-***
 ![im](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/cbc_enc.png)
@@ -38,7 +38,7 @@ For Example- if the name of file is ECB_enc.v then it will have code of encrypti
 ***Decrypted image-***
 ![im](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/cbc_dec.png)
 
-##### CFB (Cipher FeedBack) mode-
+### CFB (Cipher FeedBack) mode-
 
 ***Encrypted image-***
 ![im](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/cfb_enc.png)
@@ -46,7 +46,7 @@ For Example- if the name of file is ECB_enc.v then it will have code of encrypti
 ***Decrypted image-***
 ![im](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/cfb_dec.png)
 
-##### OFB (Output FeedBack) mode-
+### OFB (Output FeedBack) mode-
 
 ***Encrypted image-***
 ![im](https://github.com/ujjawalece/Verolg-code-for-different-modes-of-DES/blob/main/ofb_enc.png)
